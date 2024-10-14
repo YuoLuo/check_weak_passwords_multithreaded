@@ -1,4 +1,5 @@
 # check_weak_passwords_multithreaded
+检查mysql数据库弱口令
 # 使用方法
 ```
 -i 指定ip列表
